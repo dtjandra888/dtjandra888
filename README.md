@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel
-- 🌱 I’m currently learning Python, C++, and web development related things
+- 🌱 I’m currently learning Python, C++, and JavaScript
 - 📖 Studying at ASU Tempe
 
 
