@@ -1,7 +1,9 @@
 - ASU Alumni
-- Currently learning Qt and C++
+- Currently learning C++
 - I love vim
 - I hate css
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtjandra888)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 dtjandra888/dtjandra888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
